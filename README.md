@@ -5,5 +5,5 @@
   
   
 Hello! My name is Kevin Ng.
-I was formerly a 3D Artist in Mobile Game Development and my responsibilities included creating 3D assets for use in a 3D engine, creating texture maps, implementing animations, and documenting the pipeline.
+I was formerly a 3D Artist in Mobile Game Development and my responsibilities included creating 3D assets for use in a 3D engine, creating texture maps, implementing animations, and documenting the pipeline. Now I am a Software Developer working on creating applications with the technologies I have learned and will continue learning.
 
