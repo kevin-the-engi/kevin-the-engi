@@ -1,7 +1,7 @@
 # Kevin Ng
 ## Full-Stack Software Developer :technologist:	
 ### Technologies: 
-  Javascript, React, NodeJs, Express, HTML/CSS, CSS-Modules/Styled-Components, MySql, MongoDB/Mongoose, Jest/Enzyme 
+#### Javascript, React, NodeJs, Express, HTML/CSS, CSS-Modules/Styled-Components, MySql, MongoDB/Mongoose, Jest/Enzyme 
   
   
 Hey, Kevin here! :raising_hand_man: </br>
